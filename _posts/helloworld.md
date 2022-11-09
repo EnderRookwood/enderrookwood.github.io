@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: "Hello World!!!"
-date: 2022-11-08 12:00:00 -500
+title: Hello World!!!
+date: 2022-11-08 08:59:00 
 categories: [Blog,Life]
 tags: [blog, life, dev]
 
