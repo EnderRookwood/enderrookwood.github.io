@@ -44,5 +44,19 @@ So for pushing things to github im using Windows Subsystem for linux to emulate 
 
 If you want a linux style terminal while keeping Windows 10 (or 11 if you use it) I really reccommend WSL Ubuntu.
 
+although is still have a headache
+
+---
+# Advice to you
+---
+Some tips if you wanna take the trip down setting up a site like this is 
+* STAY CALM ( or youll give yourself a massive headache)
+* Keep your desktop organzied
+* Play some music in the background
+* Breath when you get stressed out
+* TAKE A BREAK
+
+
+if you do feel like things are getting to tough dont be afraid to ask for help!!
 
 

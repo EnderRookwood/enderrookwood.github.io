@@ -21,7 +21,7 @@ timezone: America/Indiana/Indianapolis
 
 title: EnderGames                          # the main title
 
-tagline: Hello World!!   # it will display as the sub-title
+tagline: A Site for me to just talk   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A site for me to post notes and blogs about life and tech.
