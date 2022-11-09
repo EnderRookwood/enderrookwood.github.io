@@ -25,6 +25,7 @@ tagline: super orignal tagline   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
 this is a site for me to make blog post and stuff about coding and life
+
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://enderrookwood.github.io'
 
