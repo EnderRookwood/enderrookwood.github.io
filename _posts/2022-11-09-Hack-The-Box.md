@@ -51,7 +51,10 @@ Well after your setup you uh well...Hack The Box
 
 Dont worry you wont be going in alone HTB offers training and much more to learn how to pen test and other things like that.
 
-Ill be posting my write-ups here under the tag  
+Ill be posting my write-ups here under the tag 
+>HACKING 
+
+
 
 - [X] Set-Up
 - [X] Sign-Up
