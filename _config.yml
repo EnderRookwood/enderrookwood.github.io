@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: ''
+baseurl: '/PROJECT_NAME'
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,26 +14,25 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Indiana/Indianapolis
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: EnderGames Studio                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: super orignal tagline   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
-
+this is a site for me to make blog post and stuff about coding and life
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://enderrookwood.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: enderrookwood             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: endergames98            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,10 +41,10 @@ social:
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/endergames98      # change to your twitter homepage
+    - https://github.com/enderrookwood       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+     - https://www.youtube.com/@endergames98
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
@@ -81,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:https://yt3.ggpht.com/y8dcoNQEj-xgjV_qJHWhOg-WhhMYU3DCcrMmdkqQx65WNpnAKx_tF5gMzSV_kPdamXnikbX-oA=s88-c-k-c0x00ffffff-no-rj-mo
 
 # boolean type, the global switch for ToC in posts.
 toc: true
