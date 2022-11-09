@@ -158,7 +158,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: https://raw.githubusercontent.com/EnderRookwood/enderrookwood.github.io/main/assets/img/favicon/favicon.ico
+      path: /assets/img/favicons
     values:
       swcache: true
   - scope:
