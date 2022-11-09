@@ -23,7 +23,7 @@ title: EnderGames Studio                         # the main title
 
 tagline: super orignal tagline   # it will display as the sub-title
 
-description: this is a test description >-   # used by seo meta and the atom feed
+description: this is a test description# >-   # used by seo meta and the atom feed
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -42,10 +42,10 @@ social:
   email: example@domain.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/endergames98      # change to your twitter homepage
-    - https://github.com/enderrookwood       # change to your github homepage
+     https://twitter.com/endergames98      # change to your twitter homepage
+     https://github.com/enderrookwood       # change to your github homepage
     # Uncomment below to add more social links
-     - https://www.youtube.com/@endergames98
+     https://www.youtube.com/@endergames98
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
