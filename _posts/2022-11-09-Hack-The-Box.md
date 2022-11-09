@@ -3,8 +3,8 @@
 layout: post
 title: Messing around with Hack The Box
 date: 2022-11-09 11:26:00 -500
-categories: [Blog,Hacking]
-tags: [blog, Pen Testing, Hacking]
+categories: [Hacking, HTB]
+tags: [Pen Testing, Hacking]
 
 ---
 
@@ -53,6 +53,8 @@ Dont worry you wont be going in alone HTB offers training and much more to learn
 
 Ill be posting my write-ups here under the tag 
 >HACKING 
+
+![Hack The Box](https://raw.githubusercontent.com/EnderRookwood/enderrookwood.github.io/main/assets/img/HTB.png)
 
 
 
