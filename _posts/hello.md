@@ -20,4 +20,4 @@ I am Endergames, a 21 year old guy whos on an adventure in coding, Ihope to brin
 
 ## PHOTO
 
-(still learning markdown ;-; )
+(still learning markdown ;-;... )
