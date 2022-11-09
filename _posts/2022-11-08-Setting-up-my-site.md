@@ -60,3 +60,4 @@ Some tips if you wanna take the trip down setting up a site like this is
 if you do feel like things are getting to tough dont be afraid to ask for help!!
 
 
+![site code](picture.png) 
