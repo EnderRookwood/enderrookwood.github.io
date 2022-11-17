@@ -19,12 +19,12 @@ timezone: America/Indiana/Indianapolis
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EnderGames                          # the main title
+title: N.B.T-EnderGames                        # the main title
 
-tagline: A Site for me to just talk   # it will display as the sub-title
+tagline: News, Blogs, and Tech.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A site for me to post notes and blogs about life and tech.
+  A Site for all things News and Tech and also hosts my personal blog
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
