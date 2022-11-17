@@ -28,15 +28,14 @@ Judge Jennifer Dorow leaving Brookes with a stern memory
 
 We send prayers to the family and freinds of the people who were harmed or affected in the attack and now hope the healing process can fully begin knowing justice has been served and the Brookes will no longer see freedom in his life time.
 
+---
+
+#### Links:
+
+[COURT TV](https://www.courttv.com/)
+
+
 <figure>
     <img src = "https://raw.githubusercontent.com/EnderRookwood/enderrookwood.github.io/main/images/Court-TV-Brooks-Trial.jpg">
     <figcaption>- Image from Court TV Media
 </figure>
-
-
----
-
-
-## Links:
-
-**[COURT TV MEDIA](https://www.courttv.com/)**
