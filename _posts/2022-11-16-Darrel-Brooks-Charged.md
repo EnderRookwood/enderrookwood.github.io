@@ -38,4 +38,4 @@ We send prayers to the family and freinds of the people who were harmed or affec
 <figure>
     <img src = "https://raw.githubusercontent.com/EnderRookwood/enderrookwood.github.io/main/images/Court-TV-Brooks-Trial.jpg">
     <figcaption>- Image from Court TV Media
-</figure>
+
